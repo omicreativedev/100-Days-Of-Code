@@ -1,2 +1,3 @@
 # 100-Days-Of-Code
-My #100DaysOfCode Logs
+
+[My Original Fork of 100DaysOfCode](https://github.com/omicreativedev/100-days-of-code-kallaway)
